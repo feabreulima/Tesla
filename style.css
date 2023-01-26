@@ -19,7 +19,7 @@ html, body{
 .main{
     width: 100%;
     min-height: 100%;
-    background-image: url('jj.jpeg');
+    background-image: url('img/bk1.jpeg');
     background-position: center;
     background-size:cover;
 }
